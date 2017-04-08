@@ -1,3 +1,29 @@
-h1{
-	text-align: center; 
+* {
+  box-sizing: border-box;
+}
+.navbar-brand {
+	text-align: left;
+	font-size: 1.6em;
+}
+#nav-list a {
+  text-align: center;
+  font-size: 1.3em;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+#title {
+	font-size: 1.6em;
+}
+#main-content section{
+	margin-left: 10px;
+	margin-right:10px;
+	margin-bottom: 10px; 
+	padding: 10px;
+	background: #E7E7E7;
+}
+
+header {
+	margin:0px;
 }
