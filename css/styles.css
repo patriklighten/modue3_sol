@@ -16,7 +16,7 @@
 #title {
 	font-size: 1.6em;
 }
-#main-content section{
+#main-content  section{
 	margin-left: 10px;
 	margin-right:10px;
 	margin-bottom: 10px; 
@@ -24,6 +24,9 @@
 	background: #E7E7E7;
 }
 
+#main-content section.text-center {
+	color: blue;
+}
 header {
 	margin:0px;
 }
